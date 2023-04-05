@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @upmuwei
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning computer graphics
+- 🌱 I’m currently learning computer science
 
